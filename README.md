@@ -2,26 +2,26 @@
 
 Secure password generator with strength meter and history.
 
-## Cara Pakai
+## How to Use
 
-**Langkah 1:** Buka file `index.html` di browser.
+**Step 1:** Open `index.html` in your browser.
 
-**Langkah 2:** Tutorial onboarding muncul pertama kali. Klik **Start Generating**.
+**Step 2:** An onboarding tutorial appears on first visit. Click **Start Generating**.
 
-**Langkah 3:** Geser slider **Password Length** (8-64 karakter).
+**Step 3:** Drag the **Password Length** slider (8-64 characters).
 
-**Langkah 4:** Centang/uncang opsi: **Uppercase**, **Numbers**, **Symbols**.
+**Step 4:** Toggle options: **Uppercase**, **Numbers**, **Symbols**.
 
-**Langkah 5:** Klik **Generate Password**. Password langsung muncul.
+**Step 5:** Click **Generate Password**. A password appears instantly.
 
-**Langkah 6:** Klik password atau tombol **Copy to Clipboard**.
+**Step 6:** Click the password or **Copy to Clipboard** button.
 
-**Langkah 7:** Cek **Strength Meter** di bawah. Hijau = Very Strong!
+**Step 7:** Check the **Strength Meter** below. Green = Very Strong!
 
 ## Features
 - Adjustable length (8-64)
-- Character type options
-- Strength meter
+- Character type toggles
+- Strength meter with color coding
 - Copy to clipboard
 - Password history
 
